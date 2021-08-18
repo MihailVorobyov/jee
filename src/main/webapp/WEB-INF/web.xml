@@ -31,9 +31,4 @@
     <servlet-class>com.vorobyov.app.OutputProductServlet</servlet-class>
   </servlet>
 
-  <servlet-mapping>
-    <servlet-name>OutputProductServlet</servlet-name>
-    <url-pattern>/products</url-pattern>
-  </servlet-mapping>
-
 </web-app>
